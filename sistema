@@ -1128,7 +1128,6 @@ CREATE TABLE `adms_usuarios` (
 --
 
 INSERT INTO `adms_usuarios` (`id`, `nome`, `apelido`, `email`, `usuario`, `senha`, `recuperar_senha`, `chave_descadastro`, `conf_email`, `imagem`, `adms_niveis_acesso_id`, `adms_sits_usuario_id`, `created`, `modified`) VALUES
-(15, 'Gallo', NULL, 'gallo@hotmail.com', 'Gallo', '$2y$10$3jqOF3IWgsMUJzxv7nSBk..FkRRbbTTfLsVvSGijK0l.pkbskjhHu', NULL, NULL, NULL, 'images.png', 1, 1, '2020-08-01 05:03:47', '2020-08-01 05:03:57'),
 (14, 'Fabio Luis Farias Salles', 'fox', 'fabiolfs76@hotmail.com', 'fabio@hotmail.com', '$2y$10$U33OFoCy9eHxYnbliapOWebMx5i5gibQivj2YSCLmuNVmSOtxATXi', NULL, NULL, 'bcb0b4273db09c77807939b4dd69946a', '2-1.jpg', 1, 1, '2018-06-09 09:51:08', '2020-08-01 04:52:52');
 
 -- --------------------------------------------------------
