@@ -3,9 +3,9 @@ if(!isset($seguranca)){
     exit;
 }
 $servidor = "localhost";
-$usuario = "lifucaco_lifuca";
-$senha = "foxlima1976";
-$dbname = "lifucaco_lifuca";
+$usuario = "root";
+$senha = "";
+$dbname = "sistema";
 
 //Criar a conexao
 $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
