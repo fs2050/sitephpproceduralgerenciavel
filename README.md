@@ -1,5 +1,5 @@
 # sitephpproceduralgerenciavel
-Projeto criado com php Oprocedural  - Mysqli & Bootstrap.
+Projeto criado com php procedural  - Mysqli & Bootstrap.
 Para acessar o administrativo do site coloque "/adm" logo após a url do site.
 Usuário: admin 
 Login: 123456
